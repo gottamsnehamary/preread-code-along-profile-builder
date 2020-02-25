@@ -237,16 +237,3 @@ progress[value]::-webkit-progress-bar {
   justify-content: center;
   align-items: center;
 }
-
-/* DRY - Don't Repeat Yourself */
-
-/* 
-logo text 
-nav-link text
-smaller header text
-larger text in header (h1)
-bio heading (h2)
-portfolio, skills, contact (h3)
-h4 tag
-regular text
-*/
